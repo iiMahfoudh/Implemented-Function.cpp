@@ -16,5 +16,9 @@ string Zfill(string str,int weight,string fill="0"){    //Define Function and se
 
 int main(){
   cout << Zfill("Hey",7); // calling the Zfill Function
+  cout << Zfill("Macokr",7)<<endl; // calling the Zfill Function
+  cout << Zfill("siber",7)<<endl; // calling the Zfill Function
+  cout << Zfill("niller",7)<<endl; // calling the Zfill Function
+  cout << Zfill("sameles",7)<<endl; // calling the Zfill Function
   return 0;
 }
